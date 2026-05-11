@@ -48,6 +48,6 @@ En lecture
 - [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://app.hackthebox.com/users/2159849) **Rang : Prodigy** (Level 80), **90+ machines** pwned, Mini Pro Labs En cours.
 - [![RootMe](https://img.shields.io/badge/RootMe-Profile-red)](https://www.root-me.org/Kaoryu) best score: 1220
 - [![YesWeHack](https://img.shields.io/badge/YesWeHack-Hunter-red?style=flat)](https://yeswehack.com/hunters/kaoryu)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](ton-lien) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/tom-robinier-b38243257/) 
 
 
